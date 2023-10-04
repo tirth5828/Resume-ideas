@@ -5,11 +5,11 @@ A one stop solutoin for all the Resume ideas and templetes.
 
 # Statistics
 
-| Total Resume | 1 |
+| Total Resume | 2 |
 | --- | --- |
 | Web Developer | 0 |
 | Android Developer | 1 |
-| Machine Learning Engineer | 0 |
+| Machine Learning | 1 |
 | Data Scientist | 0 |
 | UI/UX Designer | 0 |
 | Content Writer | 0 |
