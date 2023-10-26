@@ -7,7 +7,7 @@ A one stop solutoin for all the Resume ideas and templetes.
 
 | Total Resume | 2 |
 | --- | --- |
-| Web Developer | 0 |
+| Web Developer | 1 |
 | Android Developer | 1 |
 | Machine Learning | 1 |
 | Data Scientist | 0 |
